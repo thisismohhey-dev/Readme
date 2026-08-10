@@ -28,7 +28,6 @@ the .NET ecosystem.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge)
 
 ### Database
 
