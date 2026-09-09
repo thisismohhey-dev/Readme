@@ -180,6 +180,3 @@ Tools & DevOps
 * DevOps & Containerization
 
 ```
-
-اگر بخواهم برای **پروفایل واقعی GitHub خودت** بهینه‌اش کنم، پیشنهاد می‌کنم نسخه بعدی را کمی تخصصی‌تر کنیم و به‌جای نشان دادن تعداد زیادی تکنولوژی، روی **TypeScript + Next.js/Nuxt.js + Hono/ElysiaJS + PostgreSQL + Drizzle + معماری Modular/CQRS** به‌عنوان هویت اصلی فنی‌ات تمرکز کنیم؛ این خیلی حرفه‌ای‌تر دیده می‌شود.
-```
