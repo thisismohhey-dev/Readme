@@ -1,4 +1,3 @@
-این فایل و به استک داتنت asp.net تغییر بده 
 # 👋 Hi, I'm Mohsen Heydari
 
 ### 💻 TypeScript Engineer | Full-Stack Developer
@@ -181,5 +180,3 @@ Tools & DevOps
 * DevOps & Containerization
 
 ```
-
-بخش فرانت هم angular , vue nuxtjs blazor هم بهش اضافه کن 
